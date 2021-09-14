@@ -8,7 +8,7 @@
  * 1. Assume the empty string is an isogram.
  * 2. Assume null is not an isogram.
  * 3. Ignore letter case.
- * 4. A String containing any character other than a letter should throw an IllegalArgumentException
+ * 4. A String containing any character other than a letter should throw an Exception
  * <p>
  * <p>
  * Please use Test Driven Development style to show how you would prove your code works.
